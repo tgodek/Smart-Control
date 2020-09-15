@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Control</string>
+    <string name="refresh">Osježi</string>
+    <string name="on">UPALI</string>
+    <string name="off">UGASI</string>
+    <string name="disconnect">ODSPOJI</string>
+</resources>
